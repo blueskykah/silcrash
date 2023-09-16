@@ -1,3 +1,4 @@
+-- Made By notouriousknocks on Discord
 for i=1,5 do
   game.Players:Chat("size all .3")
 end
